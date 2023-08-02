@@ -1,0 +1,164 @@
+/* body start */
+body{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #0f2656;
+}
+/* body end */
+
+/* header start */
+header{
+
+}
+.s1-1{
+	margin: 00 00 00 4%;
+	width: 90%;
+	border: 1px solid blanchedalmond;
+	overflow: hidden;
+}
+.s1-2{
+	width: 10%;
+	
+	float: left;
+}
+.s1-2 img{
+	width: 100%;
+}
+.s1-3{
+	width: 50%;
+	float: right;
+}
+.s1-3 ul {
+	float: right;
+}
+.s1-3 ul li {
+	list-style: none;
+	float: left;
+}
+.s1-3 ul li a{
+	display: inline-block;
+	padding: 0px 25px;
+	text-decoration: none;
+	color: #000080;
+}
+.s1-3 ul li:last-child a{
+	padding-right: 0px;
+}
+/* header end */
+
+
+
+/* banner start */
+.wq-1{
+	padding: 60px 0;
+}
+.wq-2{
+	margin: 0 auto;
+	width: 65%;
+/*	border: 1px solid; */
+	text-align: center;
+	overflow: hidden;
+}
+.wq-3{
+	margin: 0;
+	padding: 0 150px;
+	font-size: 45px;
+	font-weight: 700;
+	line-height: 60px;
+}
+.wq-3 span{
+	color: #008aff;
+}
+.wq-4{
+	padding: 0 60px;
+	line-height: 25px;
+}
+.wq-5{
+	margin: 0 auto;
+	width: 60%;
+}
+.wq-5 img{
+	width: 100%;
+}
+/* banner end */
+
+
+/* success start */
+.success-0{
+	color: #0f2656;
+}
+.s-left{
+	width: 47%;
+	text-align: right;
+	float: left;
+}
+.s-left h1{
+	margin: 0 auto;
+	font-size: 60px;
+	font-weight: 700;
+	color: #FF4747;
+}
+.s-left p{
+	padding: 0 0 0 15%;
+}
+.s-right{
+	width: 47%;
+	font-size: 35px;
+	font-weight: 500;
+	text-align: left;
+	float: right;
+}
+.s-right h1{
+	margin: 0;	
+}
+/* success end */
+/* service start */
+.service{
+	margin: 80px 0 60px 0;
+}
+.ss-11{
+	padding: 50px 25px;
+	width: 30%;
+	float: left;
+	box-sizing: border-box;
+	margin-right: 5%;
+}
+.ss-11:first-child{
+	background-color: #fdebed;
+}
+.ss-11:nth-child(2){
+	background-color: #ebf9f4;
+}
+.ss-11:last-child{
+	background-color: #fff7e8;
+	margin-right: 0;
+}
+.ss-12{
+
+}
+.ss-12 img{
+	width: 100%;
+}
+.ss-13{
+	margin: 15px 0;
+	font-size: 24px;
+	font-weight: 700;
+}
+.ss-14{
+	margin: 0;
+	line-height: 25px;
+}
+/* service end */
+.foot{
+	margin: 0;
+    padding: 25px 0;
+    text-align: center;
+    color: #ebf9f4;
+    background-color: #008aff;
+}
+.foot p a{
+	text-decoration: none;
+	letter-spacing: 4px;
+	color: #ebf9f4;
+}
